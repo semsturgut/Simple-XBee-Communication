@@ -33,9 +33,5 @@ void loop() {
     }
   }
   Serial.println(str_set);
-//rnd = random(1000);
-//xbee.print("Selam :");
-//xbee.println(rnd);
-//Serial.print(xbee.read());
   delay(1000);
 }

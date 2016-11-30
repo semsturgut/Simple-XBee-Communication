@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h>
-
+//Read data coming from Xbee char by char.
 #define rxPin 2
 #define txPin 3
 
